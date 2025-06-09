@@ -4,7 +4,11 @@
 ## Developer Environment
 **Environment Used:** Windows 11 (Local Machine, not a cloud server)  
 **Tool:** Command Prompt run as Administrator  
-**Screenshot:** [Windows Network ](windows_networking.png)
+**Screenshot:** 
+
+
+<img src="windows_networking.png" alt="Windows Network Screenshot" width="600"/>
+
 
 > ⛰️ This environment is fully local. All tools were run from my local computer. Hostname is redacted for security purposes.
 
